@@ -1,4 +1,5 @@
 {
+    <uses-permission android:name="android.permission.INTERNET" />
     "name": "ingilizcekelimebulma_fy",
     "short_name": "ingilizcekelimebulma_fy",
     "start_url": ".",
